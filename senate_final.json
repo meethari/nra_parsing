@@ -1,0 +1,100 @@
+{"name": "Roy Blunt", "money": 11900, "party": "Republican", "state": "Missouri"}
+{"name": "Marco Rubio", "money": 9900, "party": "Republican", "state": "Florida"}
+{"name": "Chuck Grassley", "money": 9900, "party": "Republican", "state": "Iowa"}
+{"name": "Rand Paul", "money": 9900, "party": "Republican", "state": "Kentucky"}
+{"name": "Richard Burr", "money": 9900, "party": "Republican", "state": "North Carolina"}
+{"name": "Rob Portman", "money": 9900, "party": "Republican", "state": "Ohio"}
+{"name": "Johnny Isakson", "money": 8450, "party": "Republican", "state": "Georgia"}
+{"name": "John Hoeven", "money": 8450, "party": "Republican", "state": "North Dakota"}
+{"name": "Ron Johnson", "money": 7450, "party": "Republican", "state": "Wisconsin"}
+{"name": "John Boozman", "money": 5950, "party": "Republican", "state": "Arkansas"}
+{"name": "Kelly Ayotte", "money": 5950, "party": "Republican", "state": "New Hampshire"}
+{"name": "James Lankford", "money": 5000, "party": "Republican", "state": "Oklahoma"}
+{"name": "John Thune", "money": 5000, "party": "Republican", "state": "South Dakota"}
+{"name": "Richard C Shelby", "money": 4950, "party": "Republican", "state": "Alabama"}
+{"name": "Mike Crapo", "money": 4950, "party": "Republican", "state": "Idaho"}
+{"name": "David Vitter", "money": 4950, "party": "Republican", "state": "Louisiana"}
+{"name": "Lisa Murkowski", "money": 4500, "party": "Republican", "state": "Alaska"}
+{"name": "Tim Scott", "money": 4500, "party": "Republican", "state": "South Carolina"}
+{"name": "Mike Lee", "money": 2500, "party": "Republican", "state": "Utah"}
+{"name": "Jerry Moran", "money": 2450, "party": "Republican", "state": "Kansas"}
+{"name": "Ted Cruz", "money": 350, "party": "Republican", "state": "Texas"}
+{"name": "John McCain", "money": 300, "party": "Republican", "state": "Arizona"}
+{"name": "Jeff Sessions", "money": 0, "party": "Republican", "state": "Alabama"}
+{"name": "Dan Sullivan", "money": 0, "party": "Republican", "state": "Alaska"}
+{"name": "Jeff Flake", "money": 0, "party": "Republican", "state": "Arizona"}
+{"name": "Tom Cotton", "money": 0, "party": "Republican", "state": "Arkansas"}
+{"name": "Dianne Feinstein", "money": 0, "party": "Democratic", "state": "California"}
+{"name": "Barbara Boxer", "money": 0, "party": "Democratic", "state": "California"}
+{"name": "Michael Bennet", "money": 0, "party": "Democratic", "state": "Colorado"}
+{"name": "Cory Gardner", "money": 0, "party": "Republican", "state": "Colorado"}
+{"name": "Richard Blumenthal", "money": 0, "party": "Democratic", "state": "Connecticut"}
+{"name": "Chris Murphy", "money": 0, "party": "Democratic", "state": "Connecticut"}
+{"name": "Tom Carper", "money": 0, "party": "Democratic", "state": "Delaware"}
+{"name": "Chris Coons", "money": 0, "party": "Democratic", "state": "Delaware"}
+{"name": "Bill Nelson", "money": 0, "party": "Democratic", "state": "Florida"}
+{"name": "David Perdue", "money": 0, "party": "Republican", "state": "Georgia"}
+{"name": "Brian Schatz", "money": 0, "party": "Democratic", "state": "Hawaii"}
+{"name": "Mazie Hirono", "money": 0, "party": "Democratic", "state": "Hawaii"}
+{"name": "Jim Risch", "money": 0, "party": "Republican", "state": "Idaho"}
+{"name": "Dick Durbin", "money": 0, "party": "Democratic", "state": "Illinois"}
+{"name": "Jack Reed", "money": 0, "party": "Democratic", "state": "Illinois"}
+{"name": "Mark Kirk", "money": 0, "party": "Republican", "state": "Illinois"}
+{"name": "Dan Coats", "money": 0, "party": "Republican", "state": "Indiana"}
+{"name": "Joe Donnelly", "money": 0, "party": "Democratic", "state": "Indiana"}
+{"name": "Joni Ernst", "money": 0, "party": "Republican", "state": "Iowa"}
+{"name": "Pat Roberts", "money": 0, "party": "Republican", "state": "Kansas"}
+{"name": "Mitch McConnell", "money": 0, "party": "Republican", "state": "Kentucky"}
+{"name": "Bill Cassidy", "money": 0, "party": "Republican", "state": "Louisiana"}
+{"name": "Susan Collins", "money": 0, "party": "Republican", "state": "Maine"}
+{"name": "Angus King", "money": 0, "party": "Independent", "state": "Maine"}
+{"name": "Barbara Mikulski", "money": 0, "party": "Democratic", "state": "Maryland"}
+{"name": "Ben Cardin", "money": 0, "party": "Democratic", "state": "Maryland"}
+{"name": "Elizabeth Warren", "money": 0, "party": "Democratic", "state": "Massachusetts"}
+{"name": "Ed Markey", "money": 0, "party": "Democratic", "state": "Massachusetts"}
+{"name": "Debbie Stabenow", "money": 0, "party": "Democratic", "state": "Michigan"}
+{"name": "Gary Peters", "money": 0, "party": "Democratic", "state": "Michigan"}
+{"name": "Amy Klobuchar", "money": 0, "party": "Democratic", "state": "Minnesota"}
+{"name": "Al Franken", "money": 0, "party": "Democratic", "state": "Minnesota"}
+{"name": "Thad Cochran", "money": 0, "party": "Republican", "state": "Mississippi"}
+{"name": "Roger Wicker", "money": 0, "party": "Republican", "state": "Mississippi"}
+{"name": "Claire McCaskill", "money": 0, "party": "Democratic", "state": "Missouri"}
+{"name": "Jon Tester", "money": 0, "party": "Democratic", "state": "Montana"}
+{"name": "Steve Daines", "money": 0, "party": "Republican", "state": "Montana"}
+{"name": "Deb Fischer", "money": 0, "party": "Republican", "state": "Nebraska"}
+{"name": "Ben Sasse", "money": 0, "party": "Republican", "state": "Nebraska"}
+{"name": "Harry Reid", "money": 0, "party": "Democratic", "state": "Nevada"}
+{"name": "Dean Heller", "money": 0, "party": "Republican", "state": "Nevada"}
+{"name": "Jeanne Shaheen", "money": 0, "party": "Democratic", "state": "New Hampshire"}
+{"name": "Bob Menendez", "money": 0, "party": "Democratic", "state": "New Jersey"}
+{"name": "Cory Booker", "money": 0, "party": "Democratic", "state": "New Jersey"}
+{"name": "Tom Udall", "money": 0, "party": "Democratic", "state": "New Mexico"}
+{"name": "Martin Heinrich", "money": 0, "party": "Democratic", "state": "New Mexico"}
+{"name": "Chuck Schumer", "money": 0, "party": "Democratic", "state": "New York"}
+{"name": "Kirsten Gillibrand", "money": 0, "party": "Democratic", "state": "New York"}
+{"name": "Thom Tillis", "money": 0, "party": "Republican", "state": "North Carolina"}
+{"name": "Heidi Heitkamp", "money": 0, "party": "Democratic", "state": "North Dakota"}
+{"name": "Sherrod Brown", "money": 0, "party": "Democratic", "state": "Ohio"}
+{"name": "Jim Inhofe", "money": 0, "party": "Republican", "state": "Oklahoma"}
+{"name": "Ron Wyden", "money": 0, "party": "Democratic", "state": "Oregon"}
+{"name": "Jeff Merkley", "money": 0, "party": "Democratic", "state": "Oregon"}
+{"name": "Bob Casey Jr", "money": 0, "party": "Democratic", "state": "Pennsylvania"}
+{"name": "Pat Toomey", "money": 0, "party": "Republican", "state": "Pennsylvania"}
+{"name": "Sheldon Whitehouse", "money": 0, "party": "Democratic", "state": "Rhode Island"}
+{"name": "Lindsey Graham", "money": 0, "party": "Republican", "state": "South Carolina"}
+{"name": "Mike Rounds", "money": 0, "party": "Republican", "state": "South Dakota"}
+{"name": "Lamar Alexander", "money": 0, "party": "Republican", "state": "Tennessee"}
+{"name": "Bob Corker", "money": 0, "party": "Republican", "state": "Tennessee"}
+{"name": "John Cornyn", "money": 0, "party": "Republican", "state": "Texas"}
+{"name": "Orrin Hatch", "money": 0, "party": "Republican", "state": "Utah"}
+{"name": "Patrick Leahy", "money": 0, "party": "Democratic", "state": "Vermont"}
+{"name": "Bernie Sanders", "money": 0, "party": "Independent", "state": "Vermont"}
+{"name": "Mark Warner", "money": 0, "party": "Democratic", "state": "Virginia"}
+{"name": "Tim Kaine", "money": 0, "party": "Democratic", "state": "Virginia"}
+{"name": "Patty Murray", "money": 0, "party": "Democratic", "state": "Washington"}
+{"name": "Maria Cantwell", "money": 0, "party": "Democratic", "state": "Washington"}
+{"name": "Joe Manchin", "money": 0, "party": "Democratic", "state": "West Virginia"}
+{"name": "Shelley Moore Capito", "money": 0, "party": "Republican", "state": "West Virginia"}
+{"name": "Tammy Baldwin", "money": 0, "party": "Democratic", "state": "Wisconsin"}
+{"name": "Mike Enzi", "money": 0, "party": "Republican", "state": "Wyoming"}
+{"name": "John Barrasso", "money": 0, "party": "Republican", "state": "Wyoming"}
